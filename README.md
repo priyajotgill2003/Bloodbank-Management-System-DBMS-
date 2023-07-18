@@ -35,3 +35,16 @@ The Blood Bank Management System consists of the following components:
      blood_type VARCHAR(5),
      contact_number VARCHAR(15)
    );
+
+3. SQL/PLSQL Queries:
+   - The Blood Bank Management System supports various queries to retrieve information and perform operations.
+   - Here are some example queries:
+
+     <img width="500" alt="image" src="https://github.com/priyajotgill2003/Bloodbank-Management-System-DBMS-/assets/72308930/9ec6b5c8-0bf5-4e45-bb91-e92c3e337da9">
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+
+
+
